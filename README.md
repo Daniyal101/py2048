@@ -4,6 +4,7 @@
 > pip install pygame 
 ###
 then Run your code from terminal by running python2048.py 
+### i did this project on windows
 
 
 ***Here are some screenshots***
